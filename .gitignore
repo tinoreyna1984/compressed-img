@@ -1,0 +1,8 @@
+node_modules
+img/avif
+img/minified
+img/webp
+img/*.jpg
+img/*.jpeg
+img/*.png
+img/*.gif
