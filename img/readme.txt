@@ -1,1 +1,0 @@
-Place images here in "img" folder.
